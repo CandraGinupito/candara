@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "professions": ["Software Engineer", "Musician"],
+    "hasPet": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipcode": "12345"
+    }
+  }
+  
